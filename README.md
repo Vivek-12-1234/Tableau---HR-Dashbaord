@@ -1,8 +1,6 @@
 # Tableau---HR-Dashbaord
 Tableau - HR Analytics Dashbaord
 
-HR Dashboard Project – Tableau
-
 I have created an interactive HR Analytics Dashboard in Tableau to analyze workforce data and provide insights. The dashboard is divided into three main sections:
 
 Overview – Shows total hires, active and terminated employees, yearly hiring and termination trends, employee distribution by department and job titles, and comparison between headquarters in New York and other branches.
