@@ -11,6 +11,6 @@ Income Analysis – Focuses on salary metrics including comparison across gender
 
 This dashboard helps HR teams to monitor employee trends, understand workforce diversity, and analyze salary patterns for better decision making.
 
-Dashboard Link: View on Tableau Public
+[View on Tableau Public](https://public.tableau.com/views/HumanResourceDashboardTabulue/HRSummary?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-GitHub Repository: View Project
+[GitHub Repository: View Project](https://github.com/Vivek-12-1234/Tableau---HR-Dashbaord)
